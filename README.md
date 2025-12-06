@@ -1,6 +1,6 @@
 # Trabalho da 3ª Unidade – Testes de Mutação e Testes com Dublês
 
-**Autores:** [Seu Nome Aqui]
+**Autores:** Lulayne e Gabriel Fontineli
 
 ## Instruções de Execução
 
